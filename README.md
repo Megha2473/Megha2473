@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Megha2473
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning data science and srtificial intelligence.
+- 🌱 I’m currently learning data science and artificial intelligence.
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...
 
